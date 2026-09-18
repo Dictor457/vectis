@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Vectis
+GenericName=Terminal Emulator
+Comment=Fast, minimalist, GPU-accelerated Wayland terminal emulator in C++20
+Exec=vectis
+Icon=vectis
+Terminal=false
+Categories=System;TerminalEmulator;
+Keywords=shell;prompt;command;commandline;cmd;terminal;
+StartupWMClass=vectis
